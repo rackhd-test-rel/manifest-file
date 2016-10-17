@@ -4,6 +4,8 @@ branch=$1
 
 echo {
 echo -e "\t \"build-name\": \"onrack-devel\","
+echo -e "\t \"build-requirements\": \","
+echo -e "\t \"downstream-jobs\": [],"
 echo -e "\t \"repositories\": ["
 
 

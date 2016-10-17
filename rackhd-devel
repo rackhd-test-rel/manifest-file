@@ -1,5 +1,9 @@
 {
-    "build-name": "onrack-devel", 
+    "build-name": "onrack-devel",
+    "build-requirements": "",  
+    "downstream-jobs": [ 
+    ],  
+
     "repositories": [
         {
             "branch": "master", 
